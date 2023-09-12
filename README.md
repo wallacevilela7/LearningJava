@@ -1,4 +1,3 @@
-Claro! Aqui está um exemplo de um arquivo README.md para o seu repositório que armazenará projetos de estudo em Java:
 
 ```markdown
 # Repositório de Projetos de Estudo em Java
