@@ -20,7 +20,7 @@ public class MinMaxExemplo {
 		int menor, maior;
 		
 		
-		//Encontra o maior
+		
 		if(n1 >= n2 && n1 >= n3) {
 			maior = n1;
 		} else if(n2 >= n1 && n2 > n3) {
@@ -29,7 +29,7 @@ public class MinMaxExemplo {
 			maior = n3;
 		}
 		
-		//Encontra o menor 
+		 
 		if(n1 <= n2 && n1 <=n3) {
 			menor = n1;
 		} else if(n2 <= n1 && n2 <= n3) {
